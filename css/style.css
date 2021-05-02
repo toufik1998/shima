@@ -513,6 +513,7 @@ section.contacts .overlay .copyright p{
     line-height: 77px;
     color: #ececec;
     font-size: 18px;
+    margin-bottom: 0px;
 }
 section.contacts  form .error{
     color: red;
